@@ -1,7 +1,0 @@
-nome = input()
-sfixo = float(input())
-vendas = float(input())
-
-sfinal = sfixo + ((vendas / 100) * 15)
-
-print("TOTAL = R$ %.2f" %(sfinal))
